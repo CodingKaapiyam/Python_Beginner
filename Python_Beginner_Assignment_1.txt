@@ -1,0 +1,36 @@
+
+1.Write a program to get a string input from the user.
+If the string begins with a vowel add "way" to its end.
+If the word begins with consonant,then take the 1st letter and put it on the end of the string and then add "ay" at the end. 
+Example:
+air
+airway
+
+python
+ythonpay
+
+
+2.Read a given string, change the character at a given index and then print the string.
+Note : Modify and print the original string itself;Do not use replace function
+
+
+Input 
+Welcome to Koding Kaapiyam
+
+Output 
+
+Welcome to Coding Kaapiyam
+
+
+3.Print the following pattern.
+Consider N=9, M=27
+N represents the number of lines. M represents the number of characters in each line.
+------------.|.------------
+---------.|..|..|.---------
+------.|..|..|..|..|.------
+---.|..|..|..|..|..|..|.---
+------CODING KAAPIYAM------
+---.|..|..|..|..|..|..|.---
+------.|..|..|..|..|.------
+---------.|..|..|.---------
+------------.|.------------
